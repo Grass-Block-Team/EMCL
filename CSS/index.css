@@ -1,0 +1,40 @@
+*{
+    margin: 0 auto;
+}
+.header{
+    background-color: black;
+    height: 60px;
+    color: white;
+    margin: 0 auto;
+    font-weight: normal;
+    text-decoration: none;
+}
+.picture{
+    margin-top: 10px;
+    margin-left: 310px;
+}
+.download{
+    float: left;
+    margin-left: 210px;
+    
+}
+.open{
+    margin-left: 260px;
+    float: left;
+}
+.about{
+    float: left;
+    margin-left: 200px;
+    
+}
+h2{
+    float: left;
+}
+head:hover{
+    color: blue;
+}
+.head{
+    text-align: center;
+    background-color: whitesmoke;
+    height: auto;
+}
