@@ -1,0 +1,63 @@
+@media (max-width:960px){
+    *{
+        margin: 0 auto;
+        list-style-type: none;
+        font-size: medium;
+        text-decoration: none;
+    }
+    .header {
+        background-color: black;
+        height: 80px;
+        color: #fff;
+    }
+    .header li {
+        display: inline;                
+    }
+    .header a:hover {
+        background-color: #060;
+        height: 20px;
+    }
+    .picture{
+        width: 20px;
+        height: 20px;
+    }
+    .minecraft-picture{
+        height: 5cm;
+        width: auto;
+    }
+    .sources{
+        text-align: center;
+    }
+    .head{
+        text-align: center;
+    }
+}
+*{
+    margin: 0 auto;
+    list-style-type: none;
+}
+.header {
+    background-color: black;
+    color: #fff;
+}         
+.header ul {
+    margin-left: 50px;
+}           
+.header li {
+    display: inline;                
+}           
+.header a {
+    line-height: 80px;
+    text-decoration: none;
+    padding: 20px ;
+}           
+    .header a:hover {
+    background-color: #060;
+}
+.picture{
+    color: #fff;
+    margin-top: 0;
+}
+.head{
+    text-align: center;
+}
